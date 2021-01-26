@@ -1,0 +1,22 @@
+.wrapper {
+  margin: auto;
+  width: 88%;
+}
+
+.logo,
+.menu {
+  display: inline-block;
+}
+
+.logo {
+  position: relative;
+  padding: 32px 45px 40px 44px;
+}
+
+.main{
+  padding: 61px 775px 72px 60px;
+  margin: none;
+  background: no-repeat url(img/mainimg.png);
+  font: 30px/29px 'gotham_proregular', arial, helvetica, sans-serif;
+  color: #fff;
+}
